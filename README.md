@@ -39,7 +39,7 @@ javac -version
 ## Clone the repository
 
 ```bash
-git clone <your-repo-url> restaurant-billing
+git clone https://github.com/DBalakrishna4599/Restaurant-Billing-App
 cd restaurant-billing
 ```
 
