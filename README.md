@@ -123,8 +123,11 @@ All money calculations use `BigDecimal` scaled to 2 decimals (paise). When split
 
 ---
 Enjoy the demo — open an issue or PR if you want enhancements.
-
+---
 build by DAMULURI BALAKRISHNA 
+---
 Github: https://github.com/DBalakrishna4599
+---
 LinkedIn: https://www.linkedin.com/in/d-balakrishna/
+---
 Remain Projects: https://manapatalu.me and https://airesearchassist.tech
