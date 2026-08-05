@@ -251,6 +251,13 @@ public class RestaurantBillingApp {
         );
     }
 
+    // build by DAMULURI BALAKRISHNA 
+    // Github: https://github.com/DBalakrishna4599
+    // LinkedIn: https://www.linkedin.com/in/d-balakrishna/
+    // Remain Projects: https://manapatalu.me and https://airesearchassist.tech
+    
+
+
     private void printSplitResult(String title, Map<Integer, BigDecimal> split) {
         System.out.println(printer.center(title, 78));
         System.out.println(printer.repeat('-', 78));
